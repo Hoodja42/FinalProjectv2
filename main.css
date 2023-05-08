@@ -1,0 +1,35 @@
+
+h1{
+	text-align: center;
+	font-family: "gantari", sans-serif;
+	border-bottom:solid;
+}
+
+.deck{
+	text-align: center;
+	font-family: "source sans pro" , sans-serif;
+	font-size: 20px;
+	color: #48626b;
+}
+
+.byline{
+font-family: gantari, sans-serif;
+font-size: 24px;
+
+}
+
+.publication{
+font-family: gantari, sans-serif;
+font-size: 24px;
+
+}
+
+.chart{ border-top:solid;
+border-bottom: solid;
+ }
+
+ .footer
+ {background-color: lightblue;
+ 	text-align: center;
+
+ }
